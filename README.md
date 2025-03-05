@@ -18,7 +18,7 @@
 - ⚡ Passionate about **Cyber Security** & **Blockchain**  
 - 🚀 Currently diving into **AI**  
 - 🛠️ **Building Scalable and Secure Web Apps**
-- ❤️ Love **Drones** and futuristic tech  
+- ❤️ Love **Drones**
 
 
 ---
