@@ -29,8 +29,7 @@
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=16F7DE">
   <img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=16F7DE">
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=16F7DE">
-  <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=16F7DE">
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=16F7DE">
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=16F7DE">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=16F7DE">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=16F7DE">
 </p>
