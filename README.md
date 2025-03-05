@@ -10,10 +10,12 @@
 ---
 
 ## 🧑‍💻 About Me
-
+- **Python Developer**
+- 💡 **Problem Solver** | Love **Building Scalable Apps**
+- 💡 **Curious learner** 
 - 🔥 **Full Stack Developer** (Django & React)  
 - ⚡ Passionate about **Cyber Security** & **Blockchain**  
-- 🚀 Currently diving into **AI & Cloud Computing**  
+- 🚀 Currently diving into **AI**  
 - 🛠️ **Building Scalable and Secure Web Apps**  
 
 ---
@@ -57,4 +59,4 @@
 
 ---
 
-⭐ **Keep Grinding & Building Amazing Projects!** 🚀
+⭐ **Keep Coding & Building Amazing Projects!** 🚀
