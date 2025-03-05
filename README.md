@@ -11,6 +11,7 @@
 
 ## 🧑‍💻 About Me
 - **Python Developer**
+  
 - 💡 **Problem Solver** | Love **Building Scalable Apps**
 - 💡 **Curious learner** 
 - 🔥 **Full Stack Developer** (Django & React)  
