@@ -46,10 +46,10 @@
 ## 🔗 Connect with Me  
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/alaminhydar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=16F7DE">
   </a>
-  <a href="https://www.linkedin.com/in/yourhandle/" target="_blank">
+  <a href="https://www.linkedin.com/in/alaminhydar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=16F7DE">
   </a>
   <a href="https://github.com/AlaminHydar" target="_blank">
