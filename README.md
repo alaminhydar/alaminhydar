@@ -16,7 +16,9 @@
 - 🔥 **Full Stack Developer** (Django & React)  
 - ⚡ Passionate about **Cyber Security** & **Blockchain**  
 - 🚀 Currently diving into **AI**  
-- 🛠️ **Building Scalable and Secure Web Apps**  
+- 🛠️ **Building Scalable and Secure Web Apps**
+- ❤️ Love **Drones** and futuristic tech  
+
 
 ---
 
