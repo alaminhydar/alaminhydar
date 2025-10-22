@@ -9,16 +9,15 @@
 
 ---
 
-## 🧑‍💻 About Me
-- **Python Developer**
-  
-- 💡 **Problem Solver** | Love **Building Scalable Apps**
-- 💡 **Curious learner** 
-- 🔥 **Full Stack Developer** (Django & React)  
-- ⚡ Passionate about **Cyber Security** & **Blockchain**  
-- 🚀 Currently diving into **AI**  
-- 🛠️ **Building Scalable and Secure Web Apps**
-- ❤️ Love **Drones**
+I’m Alamin Hydar Aliyu (Amin Hydar Ali), a Full-Stack Software Engineer and student of Defense and Strategic Studies. My work sits at the intersection of technology, strategy, and systems thinking, building solutions that are not only functional but also purposeful.
+
+I specialize in Django, Python, Django REST Framework, and React, with a strong focus on secure, user-centered design. I often integrate cybersecurity principles into my projects to ensure data protection and system integrity.
+
+Beyond development, I’m deeply interested in how intelligence systems, decision-making, and risk intersect with technology. I’m currently exploring AI, Blockchain, and Quantitative Finance, seeking ways to build adaptive systems that learn, predict, and evolve intelligently.
+
+I believe the future belongs to those who think like strategists and build like engineers, bridging foresight with execution.
+
+Outside of work, I enjoy walking, cycling, and studying drones. I’m also passionate about poetry, karate, and often find myself reading physics and engineering books, drawn especially to the mysteries of electromagnetism and how the universe connects through invisible systems of energy and order.
 
 
 ---
