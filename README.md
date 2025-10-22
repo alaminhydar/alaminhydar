@@ -9,13 +9,13 @@
 
 ---
 
-👋 Hi! I’m Alamin Hydar Aliyu (Amin Hydar Ali) — a Full-Stack Software Engineer and student of Defense & Strategic Studies. I build at the crossroads of technology, strategy, and systems thinking, crafting solutions that are not just functional, but purposeful.
+👋 Hi! I’m Alamin Hydar Aliyu (Amin Hydar Ali), a Full-Stack Software Engineer and student of Defense & Strategic Studies. I build at the crossroads of technology, strategy, and systems thinking, crafting solutions that are not just functional, but purposeful.
 
-💻 Tech Stack: Django, Python, Django REST Framework, React — all wrapped with a focus on secure, user-centered design. I love weaving cybersecurity principles into projects to keep systems robust and data safe.
+💻 Tech Stack: Django, Python, Django REST Framework, React, all wrapped with a focus on secure, user-centered design. I love weaving cybersecurity principles into projects to keep systems robust and data safe.
 
 🧠 Beyond coding, I’m fascinated by intelligence systems, decision-making, and risk, exploring how they intersect with technology. Right now, I’m diving into AI, Blockchain, and Quantitative Finance, building adaptive systems that learn, predict, and evolve.
 
-🚀 I believe the future belongs to those who think like strategists and build like engineers — bridging foresight with execution.
+🚀 I believe the future belongs to those who think like strategists and build like engineers, bridging foresight with execution.
 
 🌱 When I’m not coding, you’ll find me walking, cycling, or tinkering with drones. I’m also passionate about poetry, karate, and often get lost in physics and engineering books, drawn especially to the mysteries of electromagnetism and how the universe connects through invisible systems of energy and order.
 ---
